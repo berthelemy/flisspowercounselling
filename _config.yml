@@ -3,3 +3,6 @@ lang: en-UK
 title: Fliss Power Counselling
 description: Person-Centred & Experiential Counsellor and Psychotherapist in Sheffield
 keywords: Counsellor, Psychotherapist, Sheffield, Person-centred
+
+plugins:
+  - jekyll-seo-tag
