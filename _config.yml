@@ -5,6 +5,7 @@ description: Person-Centred & Experiential Counsellor and Psychotherapist in She
 keywords: Counsellor, Psychotherapist, Sheffield, Person-centred
 
 include: ["_pages"]
+baseurl: /flisspowercounselling/
 
 plugins:
   - jekyll-seo-tag
