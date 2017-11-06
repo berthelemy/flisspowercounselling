@@ -20,10 +20,9 @@
 		<!-- Nav -->
 			<nav id="nav">
 				<ul class="container">
-					<li><a href="#top">Top</a></li>
-					<li><a href="#work">Work</a></li>
-					<li><a href="#portfolio">Portfolio</a></li>
-					<li><a href="#contact">Contact</a></li>
+					{% for page in site.pages %}
+						<li><a href="{{ page.permalink }}">{{ page.title }}</a></li>
+					{% endfor %}
 				</ul>
 			</nav>
 
@@ -45,18 +44,13 @@
 				</article>
 			</div>
 		
-			{% for page in site.pages %}
 				<div class="wrapper style2">
 				<article id="{{ page.title }}">
-				<header>
-					<h2>{{ page.title }}</h2>
+					<h1>{{ page.title }}</h1>
+					
+					
+							{{ content }}
 						
-					</header>
-					<div class="container">
-						<div class="row">
-							{{ page.content }}
-						</div>
-					</div>
 				</article>
 				</div>
 			{% endfor %}
