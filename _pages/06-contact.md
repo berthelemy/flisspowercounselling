@@ -1,5 +1,5 @@
 ---
-title: Contant
+title: Contact
 ---
 <!-- Contact -->
 			<div class="wrapper style4">
