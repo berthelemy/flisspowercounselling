@@ -24,7 +24,7 @@
 			<nav id="nav">
 				<ul class="container">
 					{% for node in site.pages %}
-						{% if page.title %}
+						{% if node.title %}
 						{% if page.url == node.url %}
       							<li class="current"><a href="{{ site.baseurl }}{{ node.permalink }}" class="current">{{node.title}}</a></li>
     						{% else %}
