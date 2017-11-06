@@ -25,7 +25,11 @@
 				<ul class="container">
 					{% for page in site.pages %}
 						{% if page.title %}
-							<li><a href="{{ site.baseurl }}{{ page.permalink }}">{{ page.title }}</a></li>
+						{% if page.url == node.url %}
+      							<li class="current"><a href="{{node.url}}" class="active">{{node.title}}</a></li>
+    						{% else %}
+      							<li><a href="{{ site.baseurl }}{{ page.permalink }}">{{ page.title }}</a></li>
+    						{% endif %}
 						{% endif %}
 					{% endfor %}
 				</ul>
