@@ -24,7 +24,9 @@
 			<nav id="nav">
 				<ul class="container">
 					{% for page in site.pages %}
-						<li><a href="{{ site.baseurl }}{{ page.permalink }}">{{ page.title }}</a></li>
+						{% if page.title %}
+							<li><a href="{{ site.baseurl }}{{ page.permalink }}">{{ page.title }}</a></li>
+						{% endif %}
 					{% endfor %}
 				</ul>
 			</nav>
