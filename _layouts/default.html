@@ -44,8 +44,9 @@
 					</div>
 				</article>
 			</div>
-		<div class="wrapper style2">
+		
 			{% for page in site.pages %}
+				<div class="wrapper style2">
 				<article id="{{ page.title }}">
 				<header>
 					<h2>{{ page.title }}</h2>
@@ -57,6 +58,7 @@
 						</div>
 					</div>
 				</article>
+				</div>
 			{% endfor %}
 		<!-- Work -->
 			
