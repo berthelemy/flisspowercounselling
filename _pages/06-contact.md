@@ -3,7 +3,7 @@ title: Contact
 permalink: /contact/
 ---
 <!-- Contact -->
-			<div class="wrapper style4">
+			<div class="wrapper style4" markdown="0">
 				<article id="contact" class="container 75%">
 					<header>
 						<h2>Have me make stuff for you.</h2>
