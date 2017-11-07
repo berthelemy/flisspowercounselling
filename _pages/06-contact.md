@@ -33,7 +33,7 @@ permalink: /contact/
 											<div class="12u">
 												<ul class="actions">
 													<li><input type="submit" value="Send Message" /></li>
-													<li><input type="reset" value="Clear Form" class="alt" /></li></div>
+													<li><input type="reset" value="Clear Form" class="alt" /></li>
 												</ul>
 											</div>
 										</div>
