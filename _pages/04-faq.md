@@ -1,5 +1,6 @@
 ---
 title: Frequently Asked Questions
+shorttitle: FAQ
 permalink: /faq/
 ---
 ### Is there a difference between counselling and psychotherapy?
