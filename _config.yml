@@ -6,7 +6,7 @@ keywords: Counsellor, Psychotherapist, Sheffield, Person-centred
 
 include: ["_pages"]
 baseurl: /
-url: https://berthelemy.github.io
+url: http://www.flisspowercounselling.co.uk
 
 plugins:
   - jekyll-seo-tag
