@@ -20,4 +20,4 @@ I am particularly interested in autoethnographic research and LGBTQ+ perspective
 
 £35 per hour, including any contracted reading time prior to discussion.
 
-To find out more about research supervision, [contact me](contact)
+To find out more about research supervision, [contact me](../contact)
