@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Welcome
 permalink: /
 ---
 Sometimes we can struggle to cope with what life throws at us. Maybe we know why, or maybe the reason is less clear or all we know is that we ‘don&#39;t feel right’.
