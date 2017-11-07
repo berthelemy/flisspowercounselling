@@ -26,9 +26,9 @@
 					{% for node in site.pages %}
 						{% if node.title %}
 						{% if page.url == node.url %}
-      							<li class="active"><a href="{{ site.baseurl }}{{ node.permalink }}" class="active">{{node.title}}</a></li>
+      							<li class="active"><a href="{{ site.baseurl }}{{ node.permalink }}" class="active">{% if node.shorttitle %}{{ node.shorttitle }}{% else %}{{node.title}}{% endif %}</a></li>
     						{% else %}
-      							<li><a href="{{ site.baseurl }}{{ node.permalink }}">{{ node.title }}</a></li>
+      							<li><a href="{{ site.baseurl }}{{ node.permalink }}">{% if node.shorttitle %}{{ node.shorttitle }}{% else %}{{node.title}}{% endif %}</a></li>
     						{% endif %}
 						{% endif %}
 					{% endfor %}
