@@ -10,7 +10,7 @@ I work in a person-centred/experiential way, which means that I believe that you
 
 The most important thing is that you find a counsellor/therapist who is right for you. This can feel daunting, especially if you haven’t tried counselling before, but trust your instinct. However you first contact me I suggest a phone call to arrange a first session, when we can explore what has brought you to counselling and whether we think we can work together.
 
-<div><img src="{{ "/images/TherapyRoomSmall-400.png" | absolute_url }}" class="centered fit" /></div>
+<div class="image"><img src="{{ "/images/TherapyRoomSmall-400.png" | absolute_url }}" class="centered fit" /></div>
 
 I offer an initial appointment from premises on Abbeydale Road, Sheffield, with subsequent sessions from premises in the S11 area of Sheffield. In both cases access is up one flight of stairs.
 
