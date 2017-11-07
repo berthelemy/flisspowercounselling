@@ -4,11 +4,10 @@ permalink: /contact/
 ---
 <!-- Contact -->
 
-<div class="wrapper style4">
-				<article id="contact" class="container 75%">
+
 					<header>
-						<h2>Have me make stuff for you.</h2>
-						<p>Ornare nulla proin odio consequat sapien vestibulum ipsum sed lorem.</p>
+						<p><i class="fa fa-phone"></i> 07935 029228 (voicemail active)</p>
+						<p><i class="fa fa-envelope"></i> contact@flisspowercounselling.co.uk</p>
 					</header>
 					<div>
 						<div class="row">
@@ -47,6 +46,5 @@ permalink: /contact/
 						</div>
 						
 					</div>
-					
-				</article>
-</div>
+
+
