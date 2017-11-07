@@ -4,15 +4,12 @@ permalink: /contact/
 ---
 <!-- Contact -->
 
+<i class="fa fa-phone"></i> 07935 029228 (voicemail active)
 
-					<header>
-						<p><i class="fa fa-phone"></i> 07935 029228 (voicemail active)</p>
-						<p><i class="fa fa-envelope"></i> contact@flisspowercounselling.co.uk</p>
-					</header>
-					<div>
-						<div class="row">
-							<div class="12u">
-								<form method="post" action="#">
+<i class="fa fa-envelope"></i> contact@flisspowercounselling.co.uk
+					
+					
+<form method="post" action="#">
 									<div>
 										<div class="row">
 											<div class="6u 12u(mobile)">
@@ -41,10 +38,6 @@ permalink: /contact/
 											</div>
 										</div>
 									</div>
-								</form>
-							</div>
-						</div>
-						
-					</div>
-
+</form>
+							
 
