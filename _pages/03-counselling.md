@@ -6,9 +6,9 @@ permalink: /counselling/
 
 I work with individuals, offering a non-judgemental, empathic relationship to explore what is going on for you in your life, whether the need is targeted short-term counselling, or longer-term psychotherapy for deeper issues. 
 
-I work in a person-centred/experiential way, which means that I believe that you are the expert in your own life, and that you can find your own unique way forward, however hard that may seem right now. 
+I work in a person-centred/experiential way, which means that I believe that you are the expert in your own life and that you will be able to find your own unique way forward, however hard that may seem right now. 
 
-The most important thing is that you find a counsellor/therapist who is right for you. This can feel daunting, especially if you haven’t tried counselling before, but trust your instinct. However you first contact me I suggest a phone call to arrange a first session, when we can explore what has brought you to counselling and whether we think we can work together.
+The most important thing is that you find a supportive counsellor/therapist who is right for you. This can feel daunting, especially if you haven’t tried counselling before, but trust your instinct. However you first contact me I suggest a phone call to arrange a first session, when we can explore what has brought you to counselling and whether we think we can work together.
 
 <div id="image" class="image" align="center"><img src="{{ "/images/TherapyRoomSmall.jpg" | absolute_url }}" class="centered fit" /></div>
 
@@ -21,5 +21,4 @@ I work on Tuesdays and Wednesdays, with early and late appointments available.
  
 ### Fees:
 
-Initial session: £45 for 50 minutes
-Subsequent sessions: £45 for 60 minutes
+My session charge is £45 for 60 minutes.
