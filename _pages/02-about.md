@@ -12,4 +12,3 @@ I have experience of working with the wide variety of issues brought to a genera
 
 As mentioned earlier, I have knowledge of the corporate world and the stresses and strains which can arise, perhaps from a mismatch between personal and corporate values. 
 
-I am also interested in LGBTQ+ issues, and issues around identity.
