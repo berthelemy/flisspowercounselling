@@ -21,4 +21,5 @@ I work on Tuesdays and Wednesdays, with early and late appointments available.
  
 ### Fees:
 
-I charge £45 for a 50 minute session.
+Initial session: £45 for 50 minutes
+Subsequent sessions: £45 for 60 minutes
