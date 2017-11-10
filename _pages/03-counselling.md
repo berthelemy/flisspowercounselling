@@ -21,4 +21,6 @@ I work on Tuesdays and Wednesdays, with early and late appointments available.
  
 ### Fees:
 
-My session charge is £45 for 60 minutes.
+I charge £45 for 60 minutes.
+
+I do not have any reduced charge places available at the moment.
