@@ -12,7 +12,7 @@ In the person-centred approach the relationship between client and counsellor is
 
 <div id="image" class="image" align="center"><img src="{{ "/images/TherapyRoomSmall.jpg" | absolute_url }}" class="centered fit" /></div>
 
-I offer an initial appointment from premises on Abbeydale Road, Sheffield, with subsequent sessions from premises in the S11 area of Sheffield. In both cases access is up one flight of stairs.
+I offer a reduced price initial appointment from premises on Abbeydale Road, Sheffield, with subsequent sessions from premises in the S11 area of Sheffield. In both cases access is up one flight of stairs.
 
 My S11 premises are private and safe with plenty of on-street parking and 81/83 bus stops about a 10 minute walk away. 
 
