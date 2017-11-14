@@ -23,4 +23,4 @@ I work on Tuesdays and Wednesdays, with early and late appointments available.
 
 Initial meeting: £30 for 50 minutes. Subsequent meetings: £45 for 60 minutes
 
-I cannot offer any concessionary rates at the moment.
+I do not offer any concessionary rates at the moment.
