@@ -21,6 +21,11 @@ I work on Tuesdays and Wednesdays, with early and late appointments available.
  
 ### Fees:
 
-I charge £45 for 60 minutes.
+Initial meeting: £30 for 50 minutes
 
-I do not have any reduced charge places available at the moment.
+Subsequent meetings: £45 for 60 minutes
+
+Concessions:
+Counselling/psychotherapy students - £35
+
+I offer limited concessions for those on a low income.
