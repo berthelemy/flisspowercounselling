@@ -4,7 +4,7 @@ permalink: /about/
 ---
 I started training as a psychotherapist in 2011 as the result of my own experience of being a counselling client. After many years of working in financial IT I finally left the corporate world at the end of 2016, swapping 'bits and bytes' for people.
 
-I have an MSc in Person-Centred &amp; Experiential Psychotherapy from the Sherwood Psychotherapy Training Institute (SPTI) in Nottingham. I am now a graduate member of SPTI and have professional registration with UKCP (United Kingdom Council for Psychotherapy). I abide by the ethical codes of both these organisations. I have full professional indemnity insurance with Howden and am DBS checked.
+I have an MSc in Person-Centred &amp; Experiential Psychotherapy (2016) from the Sherwood Psychotherapy Training Institute (SPTI) in Nottingham. I am now a graduate member of SPTI and have professional registration with UKCP (United Kingdom Council for Psychotherapy). I abide by the ethical codes of both these organisations. I have full professional indemnity insurance with Howden and am DBS checked.
 
 ### Experience and Interests
 
