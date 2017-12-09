@@ -8,6 +8,6 @@ I have an MSc in Person-Centred &amp; Experiential Psychotherapy (2016) from the
 
 ### Experience and Interests
 
-I have 2 years' experience of working with the wide variety of issues brought to the Nottingham Trent University student counselling service, including anxiety, life transitions, issues around gender or sexuality, loss, relationship difficulties, depression. I have also worked in a domestic violence counselling service. I am currently a volunteer counsellor at a charity supporting survivors of childhood sexual abuse, but at the moment don't undertake this work in private practice.
+I have 2 years' experience of working with the wide variety of issues brought to the Nottingham Trent University student counselling service, including anxiety, life transitions, issues around gender or sexuality, loss, relationship difficulties, depression. I have also worked in a domestic violence counselling service. I am currently a volunteer counsellor at a charity supporting survivors of childhood sexual abuse.
 
 As mentioned earlier, I have knowledge of the corporate world and the stresses and strains which can arise, perhaps from a mismatch between personal and corporate values. 
