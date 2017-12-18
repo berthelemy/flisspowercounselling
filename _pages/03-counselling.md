@@ -12,15 +12,15 @@ In the person-centred approach the relationship between client and counsellor is
 
 <div id="image" class="image" align="center"><img src="{{ "/images/TherapyRoomSmall.jpg" | absolute_url }}" class="centered fit" /></div>
 
-I offer a reduced price initial appointment from premises on Abbeydale Road, Sheffield, with subsequent sessions from premises in the S11 area of Sheffield. In both cases access is up one flight of stairs.
+I offer sessions from premises in the S11 area of Sheffield, with access up one flight of stairs.
 
-My S11 premises are private and safe with plenty of on-street parking and 81/83 bus stops about a 10 minute walk away. 
+The premises are private and safe with plenty of on-street parking. The 81/83 buses serve the area. 
 
 
 I work on Tuesdays and Wednesdays, with early and late appointments available. 
  
 ### Fees:
 
-Initial meeting: £30 for 50 minutes. Subsequent meetings: £45 for 60 minutes
+All appointments are £45 for 60 minutes.
 
-I do not offer any concessionary rates at the moment.
+I do not have any concessionary rates available at the moment.
