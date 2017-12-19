@@ -14,7 +14,7 @@ In the person-centred approach the relationship between client and counsellor is
 
 I offer sessions from premises in the S11 area of Sheffield, with access up one flight of stairs.
 
-The premises are private and safe with plenty of on-street parking. The 81/83 buses serve the area. 
+The premises are private and safe with plenty of on-street parking. The 88/83 (not 83a) buses serve the area. 
 
 
 I work on Tuesdays and Wednesdays, with early and late appointments available. 
