@@ -2,7 +2,7 @@
 title: Counselling
 permalink: /counselling/
 ---
-**My counselling service will be launched in January 2018.**
+**I will be taking on new clients in January 2018.**
 
 I work with individuals, offering a non-judgemental, empathic relationship to explore what is going on for you in your life, whether the need is targeted short-term counselling, or longer-term psychotherapy for deeper issues. I particularly work with issues around identity, sexuality and gender, low mood and depression, anxious feelings, loss and bereavement.
 
