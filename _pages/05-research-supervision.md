@@ -16,6 +16,6 @@ My MSc research was an autoethnographic exploration of gender expression. <a hre
 
 ### Fees:
 
-£35 per hour, including for any contracted reading time prior to discussion.
+£35 per hour, including for any contracted reading time prior to discussion, payable by cash, cheque or Paym (payment by mobile phone) on the day of discussion.
 
 To find out more about research supervision, [contact me](../contact)
