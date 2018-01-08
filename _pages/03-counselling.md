@@ -20,6 +20,6 @@ I work on Tuesdays and Wednesdays, with early and late appointments available.
  
 ### Fees:
 
-All appointments are £45 for 60 minutes.
+All appointments are £45 for 60 minutes, payable on the day by cash, cheque or Paym (payment by mobile phone).
 
 I do not have any concessionary rates available at the moment.
