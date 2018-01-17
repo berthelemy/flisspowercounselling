@@ -12,7 +12,7 @@ I do not offer academic supervision but training organisations often provide cou
 
 I have an MSc in Person-Centred & Experiential Psychotherapy (2016, Distinction) from the Sherwood Psychotherapy Training Institute (SPTI) in Nottingham.
 
-My MSc research was an autoethnographic exploration of gender expression. <a href="http://spti.net/Dissertations/A-15-P-06-PF.pdf" target="_blank">View the abstract</a> (opens in a new tab). As part of my MSc award I also undertook clinical research in which I particularly drew on Warner’s (2005,2007) Model of Process Vulnerability. 
+My MSc research was an autoethnographic exploration of gender expression and as part of my MSc award I also undertook clinical research in which I particularly drew on Warner’s (2005,2007) Model of Process Vulnerability. 
 
 ### Fees:
 
