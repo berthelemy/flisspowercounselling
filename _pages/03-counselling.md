@@ -22,4 +22,4 @@ I work on Tuesdays and Wednesdays, with early and late appointments available (l
 
 All appointments are £45 for 60 minutes, payable on the day by cash, bank transfer or Paym (payment by mobile phone).
 
-I offer a concessionary rate of £40 to counselling trainees.
+I offer a concessionary rate of £38 to counselling trainees.
