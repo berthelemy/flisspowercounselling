@@ -2,7 +2,7 @@
 title: About me
 permalink: /about/
 ---
-I started training as a psychotherapist in 2011 as the result of my own experience of being a counselling client. How I work as a counsellor is deeply informed by my experience of personal growth and change.
+I started training as a psychotherapist in 2011 as the result of my own experience of being a counselling client. How I work as a counsellor is deeply informed by my personal experience of growth and change.
 
 ### Experience and Interests
 
