@@ -15,7 +15,7 @@ I offer sessions from premises in the S11 area of Sheffield, with access up one 
 The premises are private and safe with plenty of on-street parking. The 88/83 (not 83a) buses serve the area. 
 
 
-I work midweek (Tue and Wed) afternoons and evenings (last appointment 7pm), and Saturday all day. 
+I work Tuesday and Wednesday (including evenings), and Saturday all day. 
  
 ### Fees:
 
