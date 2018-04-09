@@ -2,6 +2,10 @@
 title: Counselling
 permalink: /counselling/
 ---
+07935 029 228 (voicemail active)
+
+contact@flisspowercounselling.co.uk
+
 I work with individuals, offering an acceptant, warm and compassionate relationship to explore what is going on for you in your life, whether the need is targeted short-term counselling, or longer-term psychotherapy for deeper issues. I particularly work with issues around low mood and depression, anxiety, low self esteem, loss and bereavement, identity, sexuality and gender, although what's going on for us is often complex and not so easy to categorise. I am happy to keep you ‘on track’ regarding a particular issue, or to help you explore as broadly as you wish.
 
 I work in a person-centred/experiential way, offering the space and support for you to explore and understand your unique way of experiencing the world, and to find the way forward that is right for you. As we work together you may find that you develop improved self-awareness and self-compassion and feel better equipped to handle future issues.
