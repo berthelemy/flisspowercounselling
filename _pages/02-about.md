@@ -15,7 +15,7 @@ A long career in financial IT means I have personal experience of the corporate 
 
 I have an MSc in Person-Centred &amp; Experiential Psychotherapy from the Sherwood Psychotherapy Training Institute (SPTI) in Nottingham and am a graduate member of SPTI.
 
-I have professional registration with UKCP (United Kingdom Council for Psychotherapy). I abide abide by the ethical codes of UKCP and  SPTI.
+I have professional registration with <a href="https://www.psychotherapy.org.uk/" target="_blank">UKCP </a>(United Kingdom Council for Psychotherapy). I abide abide by the ethical codes of UKCP and  SPTI.
 
 I have full professional indemnity insurance with Howden.
 
