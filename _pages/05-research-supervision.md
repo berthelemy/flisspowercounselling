@@ -4,7 +4,7 @@ permalink: /research-supervision/
 ---
 ### What I offer 
 
-As well as working as a counsellor/psychotherapist I offer Person-Centred research supervision to students undertaking qualitative research as part of counselling/psychotherapy training up to Masters level.  I offer verbal (phone, Skype, face-to-face) and/or written support as research ideas are developed, drawing on my own knowledge and experience to offer suggestions and feedback.
+As well as working as a counsellor/psychotherapist I offer Person-Centred research supervision to students undertaking qualitative research as part of counselling/psychotherapy training up to Masters level.  I offer verbal (phone, Zoom, WhatsApp, face-to-face) and/or written support as research ideas are developed, drawing on my own knowledge and experience to offer suggestions and feedback.
 
 I do not offer academic supervision but training organisations often provide courses/advice on essay structure and development of an academic argument etc. and there are many academic proofreading services.
 
