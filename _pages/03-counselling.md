@@ -10,15 +10,13 @@ The quality of the relationship between client and counsellor is key, so I sugge
 
 <div id="image" class="image" align="center"><img src="{{ "/images/TherapyRoomSmall.jpg" | absolute_url }}" class="centered fit" /></div>
 
-I offer sessions from premises in the S11 area of Sheffield, with access up one flight of stairs.
-
-The premises are private and safe with plenty of on-street parking. The 88/83 (not 83a) buses serve the area. 
+My premises are in the S11 area of Sheffield, with access up one flight of stairs. During the Coronavirus pandemic I am not meeting face-to-face but do offer phone, WhatsApp or Zoom sessions.
 
 
-I work Tuesday and Wednesday (including evenings), and Saturday to early afternoon. 
+I work Tuesday and Wednesday (including early evening), and Saturday to noon. 
  
 ### Fees:
 
-All appointments are £45 for 60 minutes, payable on the day by cash, bank transfer or Paym (payment by mobile phone).
+All appointments are £45 for 60 minutes, payable on the day usually by bank transfer or Paym (payment by mobile phone).
 
 I offer a concessionary rate of £37 to counselling trainees.
