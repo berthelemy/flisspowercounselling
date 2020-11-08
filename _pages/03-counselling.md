@@ -13,7 +13,7 @@ The quality of the relationship between client and counsellor is key, so I sugge
 My premises are in the S11 area of Sheffield, with access up one flight of stairs. During the Coronavirus pandemic I am not meeting face-to-face but do offer phone, WhatsApp or Zoom sessions.
 
 
-I work Tuesday and Wednesday (including early evening), and Saturday to noon. 
+I work Tuesday and Wednesday (including early evening). 
  
 ### Fees:
 
