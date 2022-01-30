@@ -6,7 +6,7 @@ keywords: Fliss, Power, Counsellor, Psychotherapist, Therapist, Sheffield, S11, 
 
 include: ["_pages"]
 baseurl: /
-url: http://www.flisspowercounselling.co.uk
+url: https://www.flisspowercounselling.co.uk
 
 plugins:
   - jekyll-seo-tag
