@@ -4,7 +4,7 @@ permalink: /contact/
 ---
 <!-- Contact -->
 
-#### SEPTEMBER 2024: Unfortunately I have no availability at the moment and don't expect any spaces to become available this year.
+#### JANUARY 2025: Unfortunately I have no availability at the moment and don't expect any spaces to become available in the next few months.
 
 
 You can contact me anytime to make an appointment. I will get back to you as soon as I can after get your message. This is likely to take a little longer at weekends. 
