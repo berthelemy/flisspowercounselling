@@ -4,7 +4,7 @@ permalink: /contact/
 ---
 <!-- Contact -->
 
-#### JANUARY 2026: I have some availability coming up on a Tuesday morning, or Wednesday evening in the next week or two. Please contact me for details.
+#### FEBRUARY 2026: I currently have availability on Tuesday mornings at 10:30 or 11:00. Please contact me for details.
 
 
 You can contact me anytime to make an appointment. I will get back to you as soon as I can after get your message. This is likely to take a little longer at weekends. 
