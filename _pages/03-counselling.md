@@ -17,5 +17,5 @@ I work Tuesday and Wednesday up to 6pm.
  
 ### Fees:
 
-All appointments are £60 for 60 minutes, payable on the day usually by bank transfer.
+All appointments are £65 for 60 minutes, payable on the day usually by bank transfer.
 
